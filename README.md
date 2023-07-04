@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I'm a web developer based in Buenos Aires, Argentina. I'm experienced in HTML, CSS 3, Bootstrap, Javascript, Angular, Typescript, MySQL, Spring boot and Java but I'm quick (and always interested) to learn new ways of solving problems every time I have the opportunity.
 <!--
 **sorayanfurter/sorayanfurter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
