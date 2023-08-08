@@ -1,4 +1,4 @@
-I'm a web developer based in Buenos Aires, Argentina. I'm experienced in HTML, CSS 3, Bootstrap, Javascript, Angular, Typescript, MySQL, Spring boot and Java but I'm quick (and always interested) to learn new ways of solving problems every time I have the opportunity.
+ I'm a web developer based in Buenos Aires, Argentina. Every day, I strive to expand my knowledge in Front and Back-End development. I am constantly seeking to incorporate new tools to enhance my analytical abilities and increase efficiency in problem-solving.
 <!--
 **sorayanfurter/sorayanfurter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
