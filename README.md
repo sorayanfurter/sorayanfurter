@@ -1,4 +1,4 @@
- I'm a web developer based in Buenos Aires, Argentina. Every day, I strive to expand my knowledge in Front and Back-End development. I am constantly seeking to incorporate new tools to enhance my analytical abilities and increase efficiency in problem-solving.
+ I'm a web developer based in Buenos Aires, Argentina. Everyday, I strive to expand my knowledge in Front and Back-End development. I am constantly seeking to incorporate new tools to enhance my analytical abilities and increase efficiency in problem-solving.
 <!--
 **sorayanfurter/sorayanfurter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
